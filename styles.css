@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+h1 {
+    color: #d35400;
+}
+
+ul, ol {
+    text-align: left;
+    display: inline-block;
+}
+
+.recipe-image {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
